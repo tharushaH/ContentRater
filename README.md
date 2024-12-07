@@ -19,3 +19,6 @@
 - [GraphQL](https://graphql.org/)
 - [React](https://react.dev/)
 - [Sqlite](https://www.sqlite.org/)
+
+## Version 1 - Video
+- https://youtu.be/PXHW7NQaeAM
